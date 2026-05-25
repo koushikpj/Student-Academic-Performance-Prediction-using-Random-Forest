@@ -61,7 +61,7 @@ The model is built with a **Random Forest Classifier**, providing insights into 
 
 ---
 
-## 👨‍💻 Team Members
+##  Team Members
 - Koushik PJ – 23ETCS002062  
 - Mohammed Saad – 23ETCS002073  
 - Pathikrit Datta – 23ETCS002084  
@@ -75,7 +75,7 @@ The model is built with a **Random Forest Classifier**, providing insights into 
 
 ---
 
-## 📌 How to Run
+##  How to Run
 ```bash
 # Clone the repository
 git clone https://github.com/koushikpj/Student-Academic-Performance-Prediction-using-Random-Forest.git
